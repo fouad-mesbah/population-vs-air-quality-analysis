@@ -39,7 +39,6 @@ The goal was not only to explore this relationship, but also to practice the ful
 ## Key Findings
 - Large populations do not necessarily correspond to worse air quality. Even the most populous state remains within a moderate AQI range.  
 - Among smaller states, AQI values vary widely, from very low to relatively high.  
-- No clear or strong relationship between population size and AQI was found in 2021.  
 - Results suggest that other factors beyond population size are more influential for air quality.  
 
 ## Deliverables
